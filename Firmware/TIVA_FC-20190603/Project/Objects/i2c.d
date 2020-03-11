@@ -1,0 +1,11 @@
+.\objects\i2c.o: ..\Libraries\Driverlib\i2c.c
+.\objects\i2c.o: H:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\i2c.o: H:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\i2c.o: ..\Core\inc\hw_i2c.h
+.\objects\i2c.o: ..\Core\inc\hw_ints.h
+.\objects\i2c.o: ..\Core\inc\hw_memmap.h
+.\objects\i2c.o: ..\Core\inc\hw_sysctl.h
+.\objects\i2c.o: ..\Core\inc\hw_types.h
+.\objects\i2c.o: ..\Libraries\Driverlib\debug.h
+.\objects\i2c.o: ..\Libraries\Driverlib\i2c.h
+.\objects\i2c.o: ..\Libraries\Driverlib\interrupt.h
