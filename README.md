@@ -19,7 +19,6 @@ PWM输出以及D-BUS捕获接口采用侧卧直插2.52排针(电调接口标准�
 ![PCB_F](https://github.com/ZhiyangZhou24/TIVA_FlightController/blob/master/Picture/PCB_2.jpg "PCBF")
 ![PCB_B](https://github.com/ZhiyangZhou24/TIVA_FlightController/blob/master/Picture/PCB_1.jpg "PCB_B")
 ![ASSM](https://github.com/ZhiyangZhou24/TIVA_FlightController/blob/master/Picture/assembled.jpg "ASSM")
-![PCB_B](https://github.com/ZhiyangZhou24/TIVA_FlightController/blob/master/Picture/PCB_1.jpg "PCB_B")
 ## 最后
 如有疑问，企鹅号778733609
 
