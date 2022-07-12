@@ -1,7 +1,8 @@
 # TIVA_FlightController
 基于德州仪器(TI)的TM4C123G单片机的飞控，目前已实现定高模式和姿态模式，姿态解算和控制移植的匿名的领航者，匿名的地面站全兼容可在线调参。
 ## 硬件
-IMU       ====>> ICM20602 IST8310 
+IMU       ====>> ICM20602
+Magmeter  ====>> IST8310 
 Barometer ====>> MS5611
 Sonar     ====>> US100 & KS103
 ## 供电
